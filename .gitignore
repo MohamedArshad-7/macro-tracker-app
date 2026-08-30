@@ -1,0 +1,72 @@
+# Flutter
+.dart_tool/
+.build/
+.pub/
+.pub-cache/
+.pubspec.lock
+build/
+*.iml
+*.lock
+*.log
+*.pid
+*.pdb
+*.swp
+*.swo
+
+# Android
+android/.gradle/
+android/app/build/
+android/app/.classpath
+android/app/.project
+android/app/.settings/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Engine.xcframework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+
+# macOS
+macos/Pods/
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Web
+web/fonts/
+web/assets/
+web/shaders/
+
+# Windows
+windows/Flutter/GeneratedPluginRegistrant.cpp
+windows/Flutter/GeneratedPluginRegistrant.h
+windows/flutter/ephemeral/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase_options.dart
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+test/.test_coverage.dart
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
